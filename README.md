@@ -1,2 +1,2 @@
 # odin-recipes
-Create a website about odin-recipes
+This is a website about odin-recipes
